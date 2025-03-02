@@ -1,1 +1,1 @@
-### To run the project : [Click Here](https://spamdetectionusingapp.streamlit.app)
+### To run the project : [Click Here](https://spamdetectiononline.streamlit.app/)
